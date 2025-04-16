@@ -1,7 +1,6 @@
-# healthCopilot
-## prd
+！！！已迁移到新产品，尽情期待
 
-https://js.design/f/phViRk?p=2VBLmBWHiq&mode=design
+# healthCopilot
 
 ## build dev client
 
